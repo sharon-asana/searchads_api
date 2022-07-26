@@ -10,7 +10,7 @@ setup(
     author_email='alkattan@phiture.com',
     packages=["searchads_api"], 
     keywords=['python','searchads','library'],
-    install_requires=['requests>=2.22.0', 'PyJWT>=2.1.0', 'cryptography>=35.0.0'],
+    install_requires=['requests>=2.22.0', 'PyJWT>=1.6.4', 'cryptography>=35.0.0'],
     long_description="""
 
 # About Phiture
